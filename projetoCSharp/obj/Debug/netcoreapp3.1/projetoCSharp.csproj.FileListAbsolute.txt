@@ -1,0 +1,13 @@
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.csprojAssemblyReference.cache
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.AssemblyInfoInputs.cache
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.AssemblyInfo.cs
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.csproj.CoreCompileInputs.cache
+C:\GitHub\projetoCSharp\projetoCSharp\bin\Debug\netcoreapp3.1\projetoCSharp.exe
+C:\GitHub\projetoCSharp\projetoCSharp\bin\Debug\netcoreapp3.1\projetoCSharp.deps.json
+C:\GitHub\projetoCSharp\projetoCSharp\bin\Debug\netcoreapp3.1\projetoCSharp.runtimeconfig.json
+C:\GitHub\projetoCSharp\projetoCSharp\bin\Debug\netcoreapp3.1\projetoCSharp.runtimeconfig.dev.json
+C:\GitHub\projetoCSharp\projetoCSharp\bin\Debug\netcoreapp3.1\projetoCSharp.dll
+C:\GitHub\projetoCSharp\projetoCSharp\bin\Debug\netcoreapp3.1\projetoCSharp.pdb
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.dll
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.pdb
+C:\GitHub\projetoCSharp\projetoCSharp\obj\Debug\netcoreapp3.1\projetoCSharp.genruntimeconfig.cache
